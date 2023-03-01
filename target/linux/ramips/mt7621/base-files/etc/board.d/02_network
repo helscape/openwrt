@@ -103,6 +103,7 @@ ramips_setup_interfaces()
 	iptime,a3002mesh|\
 	iptime,ax2002m|\
 	jcg,q20|\
+	jcg,q20-pb-boot|\
 	jdcloud,re-sp-01b|\
 	lenovo,newifi-d1|\
 	mikrotik,routerboard-m33g|\
